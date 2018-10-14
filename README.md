@@ -26,5 +26,5 @@
 
 9) Then type the c# code.
 
-10)Finally run the code and check the Data folder for the converted pdf.
+10) Finally run the code and check the Data folder for the converted pdf.
     
