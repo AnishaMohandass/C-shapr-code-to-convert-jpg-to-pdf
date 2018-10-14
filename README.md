@@ -1,4 +1,4 @@
-# C-shapr-code-to-convert-jpg-to-pdf-using-Aspose.Words
+# C-shapr-code-to-convert-jpg-to-pdf
 
 1) Open Visual Studio 2017.
 
